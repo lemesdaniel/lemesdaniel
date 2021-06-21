@@ -2,6 +2,9 @@
 ### Hi there 👋 I'm [Daniel Lemes](https://daniel.lemes.dev)
 > Software developer
 
+I'm a programmer and live in [Gramado](https://www.gramadoinesquecivel.tur.br/).
+
+
 
 <img src="https://komarev.com/ghpvc/?username=lemesdaniel" alt="lemesdaniel" />
 
