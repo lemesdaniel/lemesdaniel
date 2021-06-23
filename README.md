@@ -21,8 +21,8 @@ I'm a programmer and live in [Gramado](https://www.gramadoinesquecivel.tur.br/).
 
 [![Daniel Lemes Stats](https://github-readme-stats.vercel.app/api?username=lemesdaniel&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/lemesdaniel)
 
-[![lemesdaniel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lemesdaniel)](https://github.com/lemesdaniel)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Github Repos
 
