@@ -6,8 +6,6 @@ I'm a programmer and live in [Gramado](https://www.gramadoinesquecivel.tur.br/).
 
 
 
-<img src="https://komarev.com/ghpvc/?username=lemesdaniel" alt="lemesdaniel" />
-
 
 ### Programming Languages 🌐
 
