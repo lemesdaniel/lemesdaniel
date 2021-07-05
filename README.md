@@ -5,7 +5,7 @@
 I'm a programmer and live in [Gramado](https://www.gramadoinesquecivel.tur.br/).
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-186-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-176-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-115188%20lines%20of%20code-blue)
 
@@ -78,7 +78,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2021
+ Last Updated on 05/07/2021
 <!--END_SECTION:waka-->
 
 ### Github Repos
