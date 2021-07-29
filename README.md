@@ -3,86 +3,11 @@
 > Software developer
 
 I'm a programmer and live in [Gramado](https://www.gramadoinesquecivel.tur.br/).
-
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-115188%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 28 Contributions in the Year 2021
- > 
-> 📦 79.3 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 35 Public Repositories 
- > 
-> 🔑 16 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.61% 
-🌆 Daytime    169 commits    ███████░░░░░░░░░░░░░░░░░░   29.96% 
-🌃 Evening    304 commits    █████████████░░░░░░░░░░░░   53.9% 
-🌙 Night      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.52%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       97 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.2% 
-Tuesday      136 commits    ██████░░░░░░░░░░░░░░░░░░░   24.11% 
-Wednesday    147 commits    ██████░░░░░░░░░░░░░░░░░░░   26.06% 
-Thursday     50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.87% 
-Friday       70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
-Saturday     46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
-Sunday       18 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-PHP                      6 hrs 17 mins       ████████████████░░░░░░░░░   67.39% 
-HTML                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92% 
-JavaScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.83% 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.43% 
-YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21%
-
-🔥 Editors: 
-PhpStorm                 9 hrs 8 mins        ████████████████████████░   97.88% 
-GoLand                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12% 
-DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-💻 Operating System: 
-Linux                    9 hrs 20 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in PHP** 
-
-```text
-PHP                      11 repos            ████████████░░░░░░░░░░░░░   47.83% 
-Vue                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
-
-```
-
-
-
- Last Updated on 29/07/2021
-<!--END_SECTION:waka-->
-
-### Github Repos
+<div>
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lemesdaniel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemesdaniel&layout=compact&langs_count=7&theme=dracula"/> 
+</div>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -92,3 +17,4 @@ Python                   1 repo              █░░░░░░░░░░�
 <a href="https://stackoverflow.com/users/994/daniel-lemes?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Daniel%20Lemes-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:dlemesdev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dlemesdev@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
+ 
