@@ -14,7 +14,7 @@ I'm a programmer and live in [Gramado](https://www.gramadoinesquecivel.tur.br/).
 <p align="center">
 <a href="https://daniel.lemes.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-daniel.lemes.dev-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/daniel-lemes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@lemesdaniel-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/994/daniel-lemes?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Daniel%20Lemes-blue?style=flat&logo=stackoverflow"></a>
+<a href="https://stackoverflow.com/users/1472260/daniel-lemes?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Daniel%20Lemes-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:dlemesdev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dlemesdev@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
  
